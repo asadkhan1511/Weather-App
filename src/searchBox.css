@@ -1,0 +1,9 @@
+.alert {
+    width: 30vw;
+    margin: 1rem auto 0;
+  }
+  .searchBox {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
